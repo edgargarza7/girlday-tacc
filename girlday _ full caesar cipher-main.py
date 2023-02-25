@@ -46,7 +46,3 @@ while True:
         display.clear()
         sleep(200) 
         display.scroll(shift_message_decrypt(ciphertext, shift_key), wait=False, delay=150)
-    
-    
-
-    
